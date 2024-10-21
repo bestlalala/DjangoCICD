@@ -1,3 +1,1 @@
 # DjangoCICD
-# DjangoCICD
-# DjangoCICD
